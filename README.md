@@ -1,7 +1,7 @@
 # clipy-users
 Python CLI application that allows you to manage users on your computer from your terminal.
 
-![Python 3.10](https://img.shields.io/badge/Python-1.20-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Usage
 * Installation of the environment used: `python -m venv venv`
